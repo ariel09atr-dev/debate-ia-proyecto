@@ -68,7 +68,4 @@ La aplicación se ejecutará en `http://localhost:5000`. Abre esta URL en tu nav
 
 El archivo `app.py` en este repositorio ha sido procesado con PyArmor para ofuscar su código fuente. Esto significa que el código no es legible directamente, pero la aplicación funcionará normalmente. El directorio `pyarmor_runtime_000000` debe estar presente junto a `app.py` para que la aplicación ofuscada se ejecute correctamente.
 
----
 
-**Autor**: Manus AI
-**Fecha**: 05 de Julio de 2026
