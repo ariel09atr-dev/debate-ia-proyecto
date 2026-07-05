@@ -1,0 +1,11 @@
+.env
+.env.local
+__pycache__/
+*.pyc
+*.json
+.vscode/
+.idea/
+pyarmor.log
+pyarmor_runtime_*/
+dist/
+build/
